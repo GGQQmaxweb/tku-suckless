@@ -22,6 +22,7 @@ https://github.com/ggqqmax/iclass-cli
 ## Finding class for better UI
 AZQUERYSUCKS
 https://github.com/tkuitocc/azquerysucks
+
 You can even use it as api
 https://raw.githubusercontent.com/tkuitocc/azquerysucks/main/courses.json
 
