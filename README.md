@@ -27,4 +27,4 @@ Dauphin
 - [Android](https://github.com/tkuitocc/dauphin-android)
 
 # WIKI
-[TKU wiki](https://tku.miraheze.org/wiki/zh-Hant/%E9%A6%96%E9%A0%81) for RTFM
+[TKU Wiki](https://tku.miraheze.org/wiki/zh-Hant/%E9%A6%96%E9%A0%81) for RTFM
