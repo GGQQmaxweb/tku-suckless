@@ -4,6 +4,9 @@ A doc for power user on tku that save times
 tku iclass MCP by canprogram
 https://github.com/cantpr09ram/TronClass-MCP
 
+iclass-do-my-homework for easy setup don't need mcp server
+https://github.com/GGQQmaxweb/iclass-do-my-homework/
+
 ## Auto rollcalls
 rockyouiclass mini version for poc
 https://github.com/GGQQmax/rockyou_iclass.git 
