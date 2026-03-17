@@ -1,35 +1,28 @@
 A doc for power user on tku that save times
 
 ## Vibe study
-tku iclass MCP by canprogram
-https://github.com/cantpr09ram/TronClass-MCP
+[tku iclass MCP](https://github.com/cantpr09ram/TronClass-MCP)by canprogram
 
-iclass-do-my-homework for easy setup don't need mcp server
-https://github.com/GGQQmaxweb/iclass-do-my-homework/
+[iclass-do-my-homework](https://github.com/GGQQmaxweb/iclass-do-my-homework/) for easy setup don't need mcp server
 
 ## Auto rollcalls
-rockyouiclass mini version for poc
-https://github.com/GGQQmax/rockyou_iclass.git 
+[rockyouiclass](https://github.com/GGQQmax/rockyou_iclass.git) mini version for poc
 
-tenko exe with gui build by cantpr09ram
-https://github.com/mar90rptnac/tenko
+[tenko](https://github.com/mar90rptnac/tenko) exe with gui build by cantpr09ram
 
 ## Tornclass CLI
-tronclass-cli for cli only use case, Great for auto script
-https://github.com/zhou-haoyang/tronclass-cli
+[tronclass-cli](https://github.com/zhou-haoyang/tronclass-cli) for cli only use case, Great for auto script
 
-iclass-cli baic ui for easy setup
-https://github.com/ggqqmax/iclass-cli
+[iclass-cli](https://github.com/ggqqmax/iclass-cli) baic ui for easy setup
 
 ## Finding class for better UI
-AZQUERYSUCKS
-https://github.com/tkuitocc/azquerysucks
+[AZQUERYSUCKS](https://github.com/tkuitocc/azquerysucks)
 
 You can even use it as api
-https://raw.githubusercontent.com/tkuitocc/azquerysucks/main/courses.json
+[https://raw.githubusercontent.com/tkuitocc/azquerysucks/main/courses.json](https://raw.githubusercontent.com/tkuitocc/azquerysucks/main/courses.json)
 
 ## Some moble app for display class on your phone
-IOS
-https://github.com/tkuitocc/dauphin-ios
-Android
-https://github.com/tkuitocc/dauphin-android
+Dauphin
+[IOS](https://github.com/tkuitocc/dauphin-ios)
+[Android](https://github.com/tkuitocc/dauphin-android)
+
