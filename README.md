@@ -1,7 +1,7 @@
 A doc for power user on tku that save times
 
 ## Vibe study
-[tku iclass MCP](https://github.com/cantpr09ram/TronClass-MCP)by canprogram
+[tku iclass MCP](https://github.com/cantpr09ram/TronClass-MCP) by canprogram
 
 [iclass-do-my-homework](https://github.com/GGQQmaxweb/iclass-do-my-homework/) for easy setup don't need mcp server
 
@@ -23,8 +23,8 @@ You can even use it as api
 
 ## Some moble app for display class on your phone
 Dauphin
-[IOS](https://github.com/tkuitocc/dauphin-ios)
-[Android](https://github.com/tkuitocc/dauphin-android)
+* [IOS](https://github.com/tkuitocc/dauphin-ios)
+- [Android](https://github.com/tkuitocc/dauphin-android)
 
 # WIKI
 [TKU wiki](https://tku.miraheze.org/wiki/zh-Hant/%E9%A6%96%E9%A0%81) for RTFM
