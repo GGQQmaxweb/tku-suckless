@@ -29,5 +29,7 @@ You can even use it as api
 https://raw.githubusercontent.com/tkuitocc/azquerysucks/main/courses.json
 
 ## Some moble app for display class on your phone
+IOS
 https://github.com/tkuitocc/dauphin-ios
-
+Android
+https://github.com/tkuitocc/dauphin-android
