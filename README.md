@@ -28,3 +28,6 @@ Dauphin
 
 # WIKI
 [TKU Wiki](https://tku.miraheze.org/wiki/zh-Hant/%E9%A6%96%E9%A0%81) for RTFM
+
+# API DOC
+[TKU API](https://hackmd.io/_A_BsSoMTv-fBiiRMbfUkQ#)
