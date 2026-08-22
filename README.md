@@ -19,7 +19,9 @@ A doc for power user on tku that save times
 [AZQUERYSUCKS](https://github.com/tkuitocc/azquerysucks)
 
 You can even use it as api
-[https://raw.githubusercontent.com/tkuitocc/azquerysucks/main/courses.json](https://raw.githubusercontent.com/tkuitocc/azquerysucks/main/courses.json)
+[courses.json](https://raw.githubusercontent.com/tkuitocc/azquerysucks/main/courses.json)
+
+[tku-emi-suckless](https://github.com/GGQQmax/tku-emi-suckless) A desktop app for Graduation Tracker, Grade History and Course Planner.
 
 ## Some moble app for display class on your phone
 Dauphin
